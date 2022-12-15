@@ -1,0 +1,7 @@
+admin, adm1n
+kashan, kashan123
+king, king123
+batman, batman123
+superman, superman123
+obiwan, obiwan123
+anakin, anakin123

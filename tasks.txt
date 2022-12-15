@@ -1,0 +1,6 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, Yes
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+batman, Vengeance, Find a way to kill Superman, 12 Dec 2022, 28 Nov 2022, No
+superman, Survival, Survive Batman's attempt to kill you, 25 Dec 2022, 30 Dec 2022, No
+kashan, Finish your bootcamp, Get 100% in all tasks, 20 Jan 2023, 12 Dec 2022, No
+testing, another test, test 2, 20 Dec 2021, 14 Dec 2022, No
